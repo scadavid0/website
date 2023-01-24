@@ -3,7 +3,7 @@
 
 # Hi, I'm {{fill author}}
 
-im a studuying electrical engineering at umich : )
+I'm a sophomore electrical engineering student at the University of Michigan. 
 
 foo foo
 
